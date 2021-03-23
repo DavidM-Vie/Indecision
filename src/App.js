@@ -1,13 +1,10 @@
 
 import './App.css';
+import IndecisionApp from './components/IndecisionApp'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>Hello</h2>
-      </header>
-    </div>
+    <IndecisionApp />
   );
 }
 
